@@ -10,7 +10,7 @@
    "directories": { 
      "lib" : "./lib/" 
    }, 
-   "main": "./lib/ewdrest.js", 
+   "main": "./lib/term.js", 
    "engines": { "node" : ">=0.2.2" }, 
    "dependencies": {
      "socket.io": "~0.9.6"
