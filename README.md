@@ -31,7 +31,11 @@ and put them in a directory under your EWD.js web server root path, eg:
 	   
 ## Running the Node.js module
 
-       node ewdvistaterm
+In the /examples directory of this repository, you'll find a documented example startup file.  Copy this file to 
+the parent directory of your node_modules directory.  Edit it appropriately.  Then run it, eg:
+
+       cd ~/node
+       node VistATerm
 
 ## Starting the Terminal Emulator in the browser:
 
