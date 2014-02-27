@@ -7,6 +7,7 @@
 <!--
   VistATerm is based on term.js
   Copyright (c) 2012-2013, Christopher Jeffrey (MIT License)
+  https://github.com/chjj/term.js/
 -->
 <style>
   html {
@@ -67,7 +68,7 @@
 
       socket.on('data', function(data) {
         console.log("received " + JSON.stringify(data));
-        term.write(data[0]);
+        term.write(data);
       });
 
       socket.on('disconnect', function() {
