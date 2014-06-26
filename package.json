@@ -1,6 +1,6 @@
 { "name": "ewdvistaterm", 
   "description": "Browser-based terminal for accessing VistA Roll & Scroll applications", 
-   "version": "0.1.5", 
+   "version": "0.1.6", 
    "author": "Rob Tweed <rtweed@mgateway.com>", 
    "repository": { 
      "type": "git", 
@@ -13,7 +13,7 @@
    "main": "./lib/term.js", 
    "engines": { "node" : ">=0.2.2" }, 
    "dependencies": {
-     "socket.io": "~0.9.6"
+     "socket.io": ">=0.9.6"
    }, 
    "licenses": [ "Apache" ]
 }

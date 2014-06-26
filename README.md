@@ -15,6 +15,10 @@ Twitter: @rtweed
 
 Google Group for discussions, support, advice etc: [http://groups.google.co.uk/group/enterprise-web-developer-community](http://groups.google.co.uk/group/enterprise-web-developer-community)
 
+## Acknowledgements
+
+Thanks to Christopher Edwards (christopher.edwards@krminc.com) for SSH-related bug-fix on Centos/RHEL.
+
 
 ## Installing the Node.js module
 
